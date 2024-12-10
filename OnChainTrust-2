@@ -1,0 +1,31 @@
+# OnChainTrust: Blockchain Trust Assessment Tool
+
+## Project Overview
+**Project Name**: OnChainTrust  
+**Objective**: Develop a blockchain-based application to help users quickly assess the trustworthiness of blockchain projects or wallet addresses by analyzing transaction history and providing a simple trust score based on predefined rules.  
+**Key Features**:
+- User input for wallet address and retrieval of transaction data.
+- Integration with free resources like Etherscan API for data fetching.
+- Analyzing transaction patterns and applying scoring logic.
+- Visual interface for easy user interaction.
+
+## Core Features
+1. **Wallet Address Analysis**: Users can input a blockchain wallet address to retrieve and view its transaction history.
+2. **Trust Scoring**: Based on predefined rules, the tool calculates and displays a trust score for the wallet.
+3. **Integration with Etherscan API**: Utilizes free API resources to pull transaction data for analysis.
+4. **User-Friendly Interface**: Simplifies the process for non-technical users to assess trustworthiness.
+
+## Technology and Infrastructure
+- **Tech Stack**: Frontend using React.js, backend utilizing Node.js.
+- **Blockchain Data**: Etherscan API for Ethereum-based data access.
+- **Hosting**: Free-tier hosting services (e.g., Vercel or Netlify).
+
+## Project Vision
+To create a transparent and accessible tool for evaluating blockchain projects and wallet addresses, making trust assessments simpler and more understandable for both novice and experienced users.
+
+## Project Status
+Currently, in the planning phase with an expected development timeline of 2-3 weeks based on the availability of free resources.
+
+## Contributions and Impact
+- This project aims to democratize trust assessment by providing a simple, free-to-use platform for users in the blockchain space.
+- It contributes to the broader goal of promoting security and transparency within the crypto ecosystem.
