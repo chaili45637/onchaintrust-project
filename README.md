@@ -1,3 +1,9 @@
+Support this project with cryptocurrency donations:
+Bitcoin (BTC): bc1pqz4g7qugluhn3nrytv0e6aq7tjwpnsh9tfdpgxrq5tr7l8jxrvgswz309q
+Ethereum (ETH): 0xe948aac05c65061583755321bd805e394b271c7b
+
+
+
 **OnChainTrust Project Proposal**
 
 **Overview**
